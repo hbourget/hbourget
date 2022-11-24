@@ -6,4 +6,4 @@
 
 - 📫 How to reach me:
 [Linkedin](https://www.linkedin.com/in/hugo-bourget-17998721a/)
- Email : hugo.bourget@cpe.fr
+or by email hugo.bourget@cpe.fr
