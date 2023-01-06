@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🏛️ I’m currently working at the City of Lyon as the CISO's apprentice
+- 🏛️ I’m currently working at Ville de Lyon as the CISO's apprentice
 
-- 🌱 I’m currently learning Programming, DevOps, Systems administration, Networks administration, Databases administration, Pentesting and ethical hacking at CPE Lyon.
+- 🌱 I’m currently following a Master's degree in Computer Science & Cybersecurity at CPE Lyon. We are learning about Programming, DevOps, Systems, Networks, Databases, Pentesting and Big Data processing.
 
 - 📫 How to reach me:
 [Linkedin](https://www.linkedin.com/in/hugo-bourget-17998721a/)
