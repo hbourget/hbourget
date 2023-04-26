@@ -8,7 +8,7 @@
 [Linkedin](https://www.linkedin.com/in/hugo-bourget-17998721a/)
 or by email hugo.bourget@cpe.fr
 
-- TryHackMe : https://tryhackme.com/p/hugo.b
+- 💻 TryHackMe : https://tryhackme.com/p/hugo.b
 
 
 <br>
