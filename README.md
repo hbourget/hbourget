@@ -1,8 +1,9 @@
-### Hi there 👋
 
-- 🏛️ I’m currently working at Ville de Lyon.
+### Hello 👋
 
-- 🌱 I’m currently enrolled in a Master's degree in Computer Science & Cybersecurity at CPE Lyon. I am learning about Programming, DevOps, Systems administration, Networking, Databases, Big Data and ethical hacking.
+- 🏛️ My name is Hugo Bourget and I am currently working for the City of Lyon.
+
+- 📖 I’m currently enrolled in a Master's degree in Computer Science & Cybersecurity at CPE Lyon. I am learning about Programming, DevOps, Systems administration, Networking, Databases, Big Data processing; Cybersecurity and ethical hacking.
 
 - 📫 How to reach me:
 [Linkedin](https://www.linkedin.com/in/hugo-bourget-17998721a/)
@@ -10,8 +11,8 @@ or by email hugo.bourget@cpe.fr
 
 - 💻 TryHackMe : https://tryhackme.com/p/hugo.b
 
+---
 
-<br>
 <h3 align="left"><b>Languages and Tools:</b></h3>
 <br>
 <p align="left">
@@ -37,4 +38,6 @@ or by email hugo.bourget@cpe.fr
 </p>
 <br>
 
-<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hbourget&show_icons=true&locale=en&layout=compact" alt="hbourget" /></p>
+<p align="right"><img align="left" src="https://github-readme-stats.vercel.app/api?username=hbourget&show_icons=true&theme=shadow_green" alt="hbourget" /> </p>
+
+<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hbourget&show_icons=true&locale=en&layout=compact&theme=shadow_green" alt="hbourget"/> </p>
