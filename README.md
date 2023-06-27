@@ -38,6 +38,6 @@ or by email hugo.bourget@cpe.fr
 </p>
 <br>
 
-<p align="right"><img align="left" src="https://github-readme-stats.vercel.app/api?username=hbourget&show_icons=true&theme=shadow_green" alt="hbourget" /> </p>
+<p align="right"><img align="left" src="https://github-readme-stats.vercel.app/api?username=hbourget&show_icons=true&theme=transparent" alt="hbourget" /> </p>
 
-<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hbourget&show_icons=true&locale=en&layout=compact&theme=shadow_green" alt="hbourget"/> </p>
+<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hbourget&show_icons=true&locale=en&layout=compact&theme=transparent" alt="hbourget"/> </p>
