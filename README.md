@@ -11,6 +11,8 @@ or by email hugo.bourget@cpe.fr
 
 - 💻 TryHackMe : https://tryhackme.com/p/hugo.b
 
+- ✏️ Personal site : https://hugo.sc//
+
 ---
 
 <h3 align="left"><b>Languages and Tools:</b></h3>
