@@ -3,7 +3,7 @@
 
 - 🏛️ My name is Hugo Bourget and I am currently working for the City of Lyon.
 
-- 📖 I’m currently enrolled in a Master's degree in Engineering in Computer Science & Cybersecurity at CPE Lyon. I am learning about Programming, DevOps, Systems administration, Networking, Databases, Big Data processing; Cybersecurity and ethical hacking.
+- 📖 I’m currently enrolled in a Master's degree in Engineering in Computer Science & Cybersecurity at CPE Lyon.
 
 - 📫 How to reach me:
 [Linkedin](https://www.linkedin.com/in/hugo-bourget-17998721a/)
