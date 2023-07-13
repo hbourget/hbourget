@@ -11,7 +11,7 @@ or by email hugo.bourget@cpe.fr
 
 - 💻 TryHackMe : https://tryhackme.com/p/hugo.b
 
-- ✏️ Website : https://hugo.sc/
+- ✏️ Website : https://hugo.sc
 
 ---
 
