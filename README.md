@@ -6,7 +6,7 @@
 - 📖 I’m enrolled in a Master's degree in Engineering in Computer Science & Cybersecurity at CPE Lyon.
 
 - 📫 How to reach me:
-[Linkedin](https://www.linkedin.com/in/hugo-bourget-17998721a/)
+[Linkedin](https://www.linkedin.com/in/hugo-bourget/)
 or by email hugo.bourget@cpe.fr
 
 - 💻 TryHackMe : https://tryhackme.com/p/hugo.b
