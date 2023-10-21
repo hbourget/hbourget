@@ -1,7 +1,7 @@
 
 ### Hello 👋
 
-- 👷‍♂️ My name is Hugo Bourget, I'm currently working for the Municipality of Lyon. Conducting several cybersecurity related projects. 🇫🇷
+- 👷‍♂️ My name is Hugo Bourget, I'm currently working for the Municipality of Lyon. Conducting several cybersecurity related projects.
 
 - 📖 I’m enrolled in a Master's degree in Engineering in Computer Science & Cybersecurity at CPE Lyon.
 
