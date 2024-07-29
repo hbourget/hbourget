@@ -3,11 +3,8 @@
 
 - 📫 How to reach me:
 [Linkedin](https://www.linkedin.com/in/hugo-bourget/)
-or by email hugo.bourget@cpe.fr
 
-- 💻 TryHackMe : https://tryhackme.com/p/hugo.b
-
-- ✏️ Website : https://hugo.sc (Soon)
+- ✏️ Website : https://hugobourget.me/
 
 ---
 
