@@ -4,8 +4,6 @@
 - 📫 How to reach me:
 [Linkedin](https://www.linkedin.com/in/hugo-bourget/)
 
-- ✏️ Website : https://hugobourget.me/
-
 ---
 
 <h3 align="left"><b>Languages and Tools:</b></h3>
