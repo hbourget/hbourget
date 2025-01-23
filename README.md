@@ -36,6 +36,28 @@
 </p>
 <br>
 
-<p align="right"><img align="left" src="https://github-readme-stats.vercel.app/api?username=hbourget&show_icons=true&theme=transparent" alt="hbourget" /> </p>
+<p>
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=hbourget&show_icons=true&locale=en&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=hbourget&show_icons=true&locale=en"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img height=190 src="https://github-readme-stats.vercel.app/api?username=hbourget&show_icons=true&locale=en" />
+  </picture>
 
-<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hbourget&show_icons=true&locale=en&layout=compact&theme=transparent" alt="hbourget"/> </p>
+   <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=hbourget&show_icons=true&locale=en&layout=compact&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=hbourget&show_icons=true&locale=en&layout=compact"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img height=190 src="https://github-readme-stats.vercel.app/api/top-langs?username=hbourget&show_icons=true&locale=en&layout=compact" />
+  </picture>
+</p>
