@@ -1,5 +1,5 @@
 
-- 📫 How to reach me:[Linkedin](https://www.linkedin.com/in/hugo-bourget/)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/hugo-bourget/)
 
 ---
 
