@@ -3,7 +3,7 @@
 
 ---
 
-<h3 align="left"><b>Languages and Tools:</b></h3>
+<h3 align="left"><b>Interests:</b></h3>
 <br>
 <p align="left">
 <a href="https://github.com/hbourget/"> <img src="https://skillicons.dev/icons?i=java,js,py,cs,c,go,php,ts,bash,powershell,html,css,md,latex,androidstudio,eclipse,idea,visualstudio,vscode,cmake,gradle,maven,django,dotnet,nodejs,react,angular,spring,tailwind,mongodb,mysql,postgres,sqlite,docker,git,github,gitlab,postman,linux,raspberrypi&theme=light" /> </a>
