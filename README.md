@@ -35,3 +35,5 @@
     <img height=190 src="https://github-readme-stats.vercel.app/api/top-langs?username=hbourget&show_icons=true&locale=en&layout=compact" />
   </picture>
 </p>
+
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
