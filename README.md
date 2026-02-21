@@ -1,8 +1,3 @@
-
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/hugo-bourget/)
-
----
-
 <h3 align="left"><b>Interests:</b></h3>
 <br>
 <p align="left">
