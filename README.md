@@ -1,5 +1,3 @@
-<h3 align="left"><b>Interests:</b></h3>
-<br>
 <p align="left">
 <a href="https://github.com/hbourget/"> <img src="https://skillicons.dev/icons?i=java,js,py,cs,c,go,ts,bash,powershell,html,css,gradle,maven,django,dotnet,nodejs,react,angular,spring,tailwind,mongodb,mysql,postgres,docker,postman,linux,raspberrypi&theme=light" /> </a>
 </p>
